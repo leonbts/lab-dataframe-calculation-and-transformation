@@ -20,11 +20,14 @@ Launch `main.ipynb`, `challenge-1.ipynb`, `challenge-2.ipynb`, and `challenge-3.
 
 ## Deliverables
 
-* `challenge-1.ipynb`, `challenge-2.ipynb` and `challenge-3.ipynb` are **mandatory challenges** that you must submit and will help you acquire the basics of dataframe calculation and transformation. 
+- Downloaded notebook with your responses to each of the exercises.
 
 ## Submission
 
-Upon completion, add your deliverables to git. Then commit git and push your branch to the remote.
+- Upon completion, add your deliverables to git. 
+- Then commit git and push your branch to the remote.
+- Make a pull request and paste the PR link in the submission field in the Student Portal.
+
 
 ## Resources
 
@@ -35,3 +38,7 @@ Upon completion, add your deliverables to git. Then commit git and push your bra
 [Google Search: get all numeric columns in dataframe](https://www.google.com/search?q=pandas+dataframe+get+all+numeric+columns)
 
 [One Hot Encoding](https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f)
+
+<br>
+
+**Good luck!**
